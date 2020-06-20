@@ -1,0 +1,13 @@
+@import "__image/photo-grid__image.css";
+
+.photo-grid {
+    margin-bottom: 102px;
+}
+
+@media (min-width: 768px) {
+    .photo-grid {
+        display: grid;
+        grid-template-columns: 352px 352px;
+        grid-gap: 16px;
+    }
+}

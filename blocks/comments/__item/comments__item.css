@@ -1,0 +1,10 @@
+
+.comments__item:not(:last-child) {
+    margin-bottom: 48px;
+}
+
+/*@media (min-width: 768px) {*/
+/*    .comments__item {*/
+/*        justify-self: center;*/
+/*    }*/
+/*}*/
