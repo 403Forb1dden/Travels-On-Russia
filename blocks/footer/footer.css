@@ -16,3 +16,9 @@
         align-items: baseline;
     }
 }
+
+@media (min-width: 1024px) {
+    .footer {
+        padding-bottom: 40px;
+    }
+}

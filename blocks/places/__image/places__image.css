@@ -10,3 +10,9 @@
         margin-top: 18px;
     }
 }
+
+@media (min-width: 1280px) {
+    .places__image {
+        margin-top: 20px;
+    }
+}

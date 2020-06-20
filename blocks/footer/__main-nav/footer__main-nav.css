@@ -14,3 +14,10 @@
         flex-wrap: wrap;
     }
 }
+
+
+@media (min-width: 1024px) {
+    .footer__main-nav {
+        width: 666px;
+    }
+}

@@ -11,3 +11,18 @@
         grid-gap: 16px;
     }
 }
+
+@media (min-width: 1024px) {
+    .photo-grid {
+        grid-template-columns: 300px 300px 300px;
+        grid-gap: 14px;
+    }
+}
+
+@media (min-width: 1280px) {
+    .photo-grid {
+        grid-template-columns: 284px 284px 284px 284px;
+        grid-gap: 16px;
+        margin-bottom: 92px;
+    }
+}

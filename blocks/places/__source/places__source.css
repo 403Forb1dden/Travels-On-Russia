@@ -6,8 +6,12 @@
 @media (min-width: 768px) {
     .places__source {
         display: flex;
-        /*align-items: flex-e;*/
         flex-direction: column;
-        /*padding-top: 25px;*/
+    }
+}
+
+@media (min-width: 1024px) {
+    .places__source {
+        justify-content: flex-end;
     }
 }

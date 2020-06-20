@@ -17,3 +17,15 @@
         margin-bottom: 16px;
     }
 }
+
+@media (min-width: 1024px) {
+    .places__description {
+        font-size: 18px;
+        line-height: 30px;
+    }
+
+    .places__description:first-child {
+        margin-top: 20px;
+    }
+}
+

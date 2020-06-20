@@ -18,3 +18,10 @@
         align-items: flex-end;
     }
 }
+
+@media (min-width: 1024px) {
+    .places__title {
+        font-size: 72px;
+        line-height: 65px;
+    }
+}
